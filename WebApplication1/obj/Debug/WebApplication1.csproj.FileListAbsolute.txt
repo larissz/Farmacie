@@ -1,0 +1,592 @@
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\faculta\Anul IV, sem 2\IASS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\disco\Desktop\IASS\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Anul 4\Semestrul II\IASS\WebApplication1 baza date check stock\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\BouncyCastle.Crypto.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.barcodes.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.commons.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.forms.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.io.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.kernel.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.layout.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.pdfa.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.sign.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.styledxmlparser.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.svg.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Buffers.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Memory.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.ValueTuple.dll
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\BouncyCastle.Crypto.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.barcodes.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.commons.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.forms.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.io.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.kernel.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.layout.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.pdfa.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.sign.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.styledxmlparser.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\itext.svg.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Buffers.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Memory.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\laris\Downloads\WebApplication1-20220406T085704Z-001\WebApplication1\WebApplication1\bin\System.ValueTuple.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\BouncyCastle.Crypto.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.barcodes.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.commons.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.forms.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.io.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.kernel.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.layout.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.pdfa.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.sign.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.styledxmlparser.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.svg.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Buffers.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Memory.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.ValueTuple.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\BouncyCastle.Crypto.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.barcodes.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.commons.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.forms.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.io.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.kernel.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.layout.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.pdfa.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.sign.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.styledxmlparser.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\itext.svg.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Buffers.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Memory.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.ValueTuple.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Anul 4\Semestrul II\IASS\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\BouncyCastle.Crypto.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.barcodes.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.commons.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.forms.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.io.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.kernel.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.layout.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.pdfa.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.sign.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.styledxmlparser.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.svg.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Buffers.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Memory.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.ValueTuple.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\BouncyCastle.Crypto.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.barcodes.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.commons.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.forms.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.io.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.kernel.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.layout.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.pdfa.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.sign.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.styledxmlparser.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\itext.svg.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Buffers.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Memory.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.ValueTuple.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\laris\Downloads\Proiect\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
